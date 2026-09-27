@@ -71,26 +71,12 @@ These slicers allow users to filter the dashboard and analyse selected business 
 ## Tools & Technologies
 
 - Microsoft Excel
-- Pivot Tables (if used in the workbook)
-- Pivot Charts (if used in the workbook)
+- Pivot Tables 
+- Pivot Chart
 - Slicers
 - Excel formulas
 - Data cleaning and analysis
 - Data visualization
-
-## Excel Techniques Used
-
-The project demonstrates practical use of:
-
-- Data organization and preparation
-- KPI cards
-- Interactive slicers
-- Charts and data labels
-- Sorting and filtering
-- Dashboard layout and formatting
-- Business data analysis
-
-Update this list to match the exact methods used in your workbook.
 
 ## Business Questions Addressed
 
