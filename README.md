@@ -10,9 +10,7 @@ The dashboard is designed to provide a clear and interactive view of business pe
 
 The dashboard provides an interactive interface where users can filter the analysis using Department, Month, and Region slicers and dynamically explore different aspects of performance.
 
-Add the screenshot to the repository as `images/FinanceDashboard_Image.png` to show it here:
-
-![Finance KPI Dashboard preview](images/FinanceDashboard_Image.png)
+![Finance KPI Dashboard](./FinanceDashboard_Image.png)
 
 ## Key Performance Indicators
 
